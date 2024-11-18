@@ -1,5 +1,8 @@
 # Smart_Irrigation_System-AquaSmartAgri
-AI-powered smart irrigation system tackling water inefficiency in Indian agriculture. Utilizing IoT sensors for real-time data collection and a Random Forest model for decision-making, it provides farmers with precise irrigation recommendations. The app's simple, regional-language interface ensures accessibility and supports sustainable farming.
+<img width="440" alt="Screenshot 2024-11-18 at 5 15 16 PM" src="https://github.com/user-attachments/assets/c92cce4d-d033-4232-9197-7ef12dcb28c3">
+
+AI-powered smart irrigation system tackling water inefficiency in Indian agriculture. Utilizing IoT sensors for real-time data collection
+ and a Random Forest model for decision-making, it provides farmers with precise irrigation recommendations. The app's simple, regional-language interface ensures accessibility and supports sustainable farming.
 Overview: The AquaSmartAgri system is an innovative, AI-powered smart irrigation solution designed to tackle water inefficiency in Indian agriculture. This project leverages IoT (Internet of Things) and machine learning to provide farmers with real-time, data-driven recommendations for irrigation. The goal is to reduce water consumption, optimize agricultural productivity, and promote sustainable farming practices.
 
 # Key Features:
